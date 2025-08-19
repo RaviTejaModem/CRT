@@ -1,2 +1,2 @@
-MVRT CRT 2025
+CRT
 Java , aptitude, reasoning 
